@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kamchatka Airlines</string>
+    <string name="button_nav_about">О нас</string>
+    <string name="button_nav_buy">Купить</string>
+    <string name="button_nav_timetable">Расписание</string>
+    <string name="button_nav_comments">Отзывы</string>
+    <string name="button_nav_profile">Профиль</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_info">Kamchatka Airlines - ваш партнер в мире воздушных перевозок. Мы специализируемся на обеспечении комфортных и безопасных полетов, соединяя Камчатку с ключевыми направлениями по всему миру.</string>
+</resources>
